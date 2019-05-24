@@ -1,0 +1,15 @@
+BEGIN
+    VAR A,B,C; //A,B,C is INT
+    /* this is a
+     test program */
+    A:=10;
+    ADORELIVE:=900000;
+    IF A>B3 THEN a
+    _W
+    BC_1:=A+12B1A2;
+    ELSE
+    1B:=(aBC+A);
+    DO
+    C_1:=A+1;
+    WHILE C<=100;
+END
