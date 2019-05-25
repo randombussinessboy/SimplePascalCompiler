@@ -1,6 +1,14 @@
 # SimplePascalCompiler
 一个简单的Pascal编译器，目前已实现词法分析功能
 
+_This is a Simple pascal Compiler  to enhance my 
+theory course of compile , and I have implemented
+the function of WordGrammar analysis;_
+
+~~wrote preceding paragraph only to practice my poor english
+  and skill of using markdown , hah~~
+
+
 # Grammar
 <语句表>→<语句> | <语句>;<语句表></br>
 <语句>→<赋值语句>|<条件语句>|<WHILE语句>|<复合语句></br>
