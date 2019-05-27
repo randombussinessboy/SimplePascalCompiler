@@ -15,7 +15,7 @@ public class Compiler {
 //        }
 
         //分析另外一个源码文件,这里可以用循环进行实现
-        Lex.setResource("src/simple_pascal_program_3.txt");
+        Lex.setResource("src/simple_pascal_program_2.txt");
 
         //请求词法分析器返回结果
        List<Word> lexAnalysisResult=Lex.getResult();
